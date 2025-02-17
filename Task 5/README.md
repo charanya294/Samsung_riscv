@@ -1,4 +1,4 @@
-1 .COUNTER
+    1 .COUNTER
 
 OVERVIEW:
 
@@ -74,14 +74,18 @@ CONCLUSION:
 Implementing a sequence counter on the RISC-V Squadron Mini Board demonstrates a practical approach to embedded systems design, combining software and hardware techniques. By leveraging the RISC-V architecture, the counter follows a predefined non-linear sequence and outputs values through GPIO, making it useful for various digital applications.
 
 This project highlights:
+
 ✅ Embedded Programming – Writing C and RISC-V assembly to control hardware.
+
 ✅ Digital Design – Implementing a finite state machine (FSM) for a sequence counter.
+
 ✅ Hardware-Software Integration – Using GPIO for real-world interfacing.
 
 
 
-    
-2. DIGITAL VOTING MACHINE
+
+
+    2. DIGITAL VOTING MACHINE
 
 OVERVIEW :
 
